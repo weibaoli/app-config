@@ -1,5 +1,8 @@
 {
-    "versin": "1.0.0", 
-    "force-update": "false", 
-    "update-url": "http://github.com"
+	"code":"0000",
+	"data":{
+    "version": "1.1", 
+    "forceUpdate": "N", 
+    "downloadUrl": "http://www.cardvalue.cn/cardcloud/apk/app-cardcloud.apk"},
+    "message":"成功"
 }
