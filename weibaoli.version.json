@@ -1,9 +1,1 @@
-{
-	"code": "0000",
-	"data": {
-		"version": "1.1",
-		"forceUpdate": "Y",
-		"downloadUrl": "http://www.cardvalue.cn/cardcloud/apk/app-cardcloud.apk"
-	}, 
-	"message": ""
-}
+{"code":"0000","data":{"version":"1.1","forceUpdate":"Y","downloadUrl":"http://www.cardvalue.cn/cardcloud/apk/app-cardcloud.apk"},"message":""}
